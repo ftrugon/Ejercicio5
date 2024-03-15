@@ -1,0 +1,1 @@
+data class Prestamo(val elemento: ElementoBiblioteca,val usuario: Usuario)
